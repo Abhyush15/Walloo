@@ -1,5 +1,5 @@
 # Walloo
-A wallpaper app for android**(means only for android)**.
+A wallpaper app for android **(means only for android)**.
 
 ## Installation
 1. Clone/download the repository.
